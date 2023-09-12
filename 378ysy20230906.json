@@ -1,45 +1,8 @@
 [
-  {
-    "id": 1,
-    "key": "wmcj8",
-    "name": "AG资源",
-    "api": "http://wmcj8.com/inc/sapi.php",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 2,
-    "key": "*大地资源",
-    "name": "*大地资源",
-    "api": "https://dadiapi.com/api.php",
-    "group": "#18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 3,
-    "key": "*老鸭资源",
-    "name": "*老鸭资源",
-    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
-    "group": "#18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "key": "*乐播资源",
-    "id": 4,
-    "name": "*乐播资源",
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-    "group": "#18+",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
+{"id": 1,"key": "wmcj8","name": "AG资源","api": "http://wmcj8.com/inc/sapi.php","jiexiUrl": "","group": "18+","isActive": true,"status": "可用","reverseOrder": false},
+{"id": 2,"key": "*大地资源","name": "*大地资源","api": "https://dadiapi.com/api.php","group": "#18+","isActive": true,"status": "可用","reverseOrder": false},
+{"id": 3,"key": "*老鸭资源","name": "*老鸭资源","api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/","group": "#18+","isActive": true,"status": "可用","reverseOrder": false},
+{"key": "*乐播资源","id": 4,"name": "*乐播资源","api": "https://lbapi9.com/api.php/provide/vod/at/xml/","group": "#18+","isActive": true,"reverseOrder": false,"status": "可用"},
   {
     "key": "*环亚资源",
     "id": 5,
