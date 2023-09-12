@@ -136,8 +136,8 @@
     "name": "*美少女资源",
     "api": "https://www.msnii.com/api/xml.php",
     "group": "#18+",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -146,8 +146,8 @@
     "name": "*小湿妹资源",
     "api": "https://www.afasu.com/api/xml.php",
     "group": "#18+",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -156,8 +156,8 @@
     "name": "*黄AV资源",
     "api": "https://www.pgxdy.com/api/xml.php",
     "group": "#18+",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -166,8 +166,8 @@
     "name": "*香奶儿资源",
     "api": "https://www.gdlsp.com/api/xml.php",
     "group": "#18+",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -176,8 +176,8 @@
     "name": "*白嫖资源",
     "api": "https://www.kxgav.com/api/xml.php",
     "group": "#18+",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -186,8 +186,8 @@
     "name": "*淫水机资源",
     "api": "https://www.xrbsp.com/api/xml.php",
     "group": "#18+",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -198,9 +198,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "18+",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "BDd1St",
@@ -210,9 +210,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "18+",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "dadi",
@@ -220,9 +220,9 @@
     "name": "大地",
     "api": "https://dadiapi.com/api.php",
     "group": "18+",
-    "isActive": false,
+    "isActive": true,
     "reverseOrder": false,
-    "status": "失效"
+    "status": "可用"
   },
   {
     "key": "WBZACw",
@@ -244,9 +244,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "18+",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "oE44Ur",
@@ -322,7 +322,7 @@
     "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
     "jiexiUrl": "https://titan.mgtv.com.o8tv.com/jiexi/?url=",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -399,7 +399,7 @@
     "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -421,7 +421,7 @@
     "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -454,7 +454,7 @@
     "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -465,7 +465,7 @@
     "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -487,7 +487,7 @@
     "api": "https://sdzyapi.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -498,7 +498,7 @@
     "api": "https://api.yparse.com/api/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -509,7 +509,7 @@
     "api": "https://ckzy.me/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -531,7 +531,7 @@
     "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -553,7 +553,7 @@
     "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -564,7 +564,7 @@
     "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -597,7 +597,7 @@
     "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -753,7 +753,7 @@
     "download": "",
     "jiexiUrl": "https://buxiao.net/jx/?url=",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -765,7 +765,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -777,7 +777,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -801,7 +801,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -813,7 +813,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -825,7 +825,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -849,7 +849,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -873,7 +873,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -921,7 +921,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -945,7 +945,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -981,9 +981,9 @@
     "download": "",
     "jiexiUrl": "https://www.buxiao.net/jx/?url=",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "S3JvsH",
@@ -1005,7 +1005,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -1041,7 +1041,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -1053,7 +1053,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -1065,7 +1065,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -1077,7 +1077,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1089,7 +1089,7 @@
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1146,7 +1146,7 @@
     "api": "http://cj.bajiecaiji.com/inc/api.php",
     "download": "",
     "group": "切片",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1157,7 +1157,7 @@
     "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
     "download": "",
     "group": "切片",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1193,7 +1193,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1303,7 +1303,7 @@
     "group": "18+",
     "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "Qzj8Pz",
@@ -1389,7 +1389,7 @@
     "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
     "jiexiUrl": "https://jx.parwix.com:4433/player/?url=",
     "group": "#官方解析",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1484,7 +1484,7 @@
     "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml/",
     "jiexiUrl": "http://xiaomaomi.cc/player/?url=",
     "group": "#官方解析",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1574,7 +1574,7 @@
     "name": "快车资源(切)",
     "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1624,7 +1624,7 @@
     "name": "卧龙资源(切)",
     "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1644,7 +1644,7 @@
     "name": "易看资源(切)",
     "api": "https://api.yikanapi.com/api.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1674,7 +1674,7 @@
     "name": "闪电资源(切)",
     "api": "http://sdzyapi.com/api.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1684,7 +1684,7 @@
     "name": "光速资源(切)",
     "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1694,7 +1694,7 @@
     "name": "新浪资源(切)",
     "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1714,7 +1714,7 @@
     "name": "韩剧资源(切)",
     "api": "http://www.hanjuzy.com/inc/api.php",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1724,7 +1724,7 @@
     "name": "77韩剧(切)",
     "api": "https://www.77hanju.com/api.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1744,7 +1744,7 @@
     "name": "八戒资源(切)",
     "api": "http://cj.bajiecaiji.com/inc/api.php",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1754,7 +1754,7 @@
     "name": "百度资源(切)",
     "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1764,7 +1764,7 @@
     "name": "无尽资源(切)",
     "api": "https://api.wujinapi.net/api.php/provide/vod/at/xml/",
     "group": "#切片资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1795,7 +1795,7 @@
     "name": "U酷资源(优)",
     "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
     "group": "#优质资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -1846,7 +1846,7 @@
     "name": "龙腾资源(优)",
     "api": "http://175.178.7.35:2020/api.php/provide/vod/at/xml/",
     "group": "#优质资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -2047,7 +2047,7 @@
     "name": "映迷(优)",
     "api": "https://www.inmi.app/api.php/provide/vod/at/xml/",
     "group": "#优质资源",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -2107,7 +2107,7 @@
     "name": "影图(聚)",
     "api": "https://cj.vodimg.top/api.php/provide/vod/at/xml/",
     "group": "#聚合",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -2137,7 +2137,7 @@
     "name": "瞬间影视(聚)",
     "api": "http://app.7en7.com/api.php/provide/vod/at/xml/",
     "group": "#聚合",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -2157,7 +2157,7 @@
     "name": "雨哥哥影视(聚)",
     "api": "http://cj.baozi66.top:66/api.php/provide/vod/at/xml/",
     "group": "#聚合",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -2457,7 +2457,7 @@
     "name": "阿里影视(聚)",
     "api": "http://aliys.cn:90/api.php/provide/vod/at/xml/",
     "group": "#聚合",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -2487,7 +2487,7 @@
     "name": "热剧天堂(聚)",
     "api": "http://175.178.7.35:2020/api.php/provide/vod/at/xml/",
     "group": "#聚合",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -2528,8 +2528,8 @@
     "name": "39影视(聚)",
     "api": "https://www.39kan.com/api.php/provide/vod/at/xml/",
     "group": "#聚合",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -2568,7 +2568,7 @@
     "name": "飘花电影(聚)",
     "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml/",
     "group": "#聚合",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -2670,7 +2670,7 @@
     "name": "*芒果资源",
     "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
     "group": "#18+",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -3841,8 +3841,8 @@
     "api": "https://www.pgxdy.com/api/xml.php",
     "group": "tvbox",
     "search": 1,
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "id": 360,
     "reverseOrder": false
   },
@@ -3853,8 +3853,8 @@
     "api": "https://www.msnii.com/api/xml.php",
     "group": "tvbox",
     "search": 1,
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "id": 361,
     "reverseOrder": false
   },
@@ -3865,8 +3865,8 @@
     "api": "https://www.afasu.com/api/xml.php",
     "group": "tvbox",
     "search": 1,
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "id": 362,
     "reverseOrder": false
   },
@@ -3925,8 +3925,8 @@
     "api": "https://www.xrbsp.com/api/xml.php",
     "group": "tvbox",
     "search": 1,
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "id": 367,
     "reverseOrder": false
   },
@@ -3949,8 +3949,8 @@
     "api": "https://www.kxgav.com/api/xml.php",
     "group": "tvbox",
     "search": 1,
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "id": 369,
     "reverseOrder": false
   },
@@ -3961,8 +3961,8 @@
     "api": "https://www.gdlsp.com/api/xml.php",
     "group": "tvbox",
     "search": 1,
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "id": 370,
     "reverseOrder": false
   },
@@ -4000,6 +4000,544 @@
     "isActive": false,
     "status": "失效",
     "id": 373,
+    "reverseOrder": false
+  },
+  {
+    "key": "8090资源",
+    "id": 374,
+    "name": "8090资源",
+    "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://9kjx.com/?url=",
+    "group": "默认",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "key": "快播资源",
+    "id": 375,
+    "name": "快播资源",
+    "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "group": "切片",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "id": 376,
+    "key": "百度资源",
+    "name": "百度资源",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "资源",
+    "isActive": false,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 377,
+    "key": "美剧星球",
+    "name": "美剧星球",
+    "api": "https://www.meijuxq.tv/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "资源",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "id": 378,
+    "key": "哇可可影视",
+    "name": "哇可可影视",
+    "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "资源",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "id": 379,
+    "key": "趣看",
+    "name": "趣看",
+    "api": "http://qkmp4.cn/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "资源",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "id": 380,
+    "key": "无尽资源",
+    "name": "无尽资源",
+    "api": "https://wuzy9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "资源",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "id": 381,
+    "key": "随便看电影",
+    "name": "随便看电影",
+    "api": "https://baobei666.com/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "资源",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "id": 382,
+    "key": "闪电资源",
+    "name": "闪电资源",
+    "api": "http://sdzyapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "资源",
+    "isActive": false,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 383,
+    "key": "千寻时光",
+    "name": "千寻时光",
+    "api": "http://wy.dqyhg.cn/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "资源",
+    "isActive": false,
+    "status": "失效",
+    "reverseOrder": false
+  },
+  {
+    "key": "PBTWlY",
+    "id": 384,
+    "name": "花椒资源",
+    "api": "https://apihjzy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "esI45c",
+    "id": 385,
+    "name": "92爱资源",
+    "api": "http://www.92aizy.com/api/macs.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "VOJrAj",
+    "id": 386,
+    "name": "独家资源",
+    "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "b7mkcP",
+    "id": 387,
+    "name": "大炮资源(无水印)",
+    "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "0qFYJK",
+    "id": 388,
+    "name": "3合资源",
+    "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/\"",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "E0HiJd",
+    "id": 389,
+    "name": "茄子资源",
+    "api": "http://ssl.qieziapi.xyz/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "4kIrgE",
+    "id": 390,
+    "name": "优果资源",
+    "api": "https://www.ugvapi.com/inc/zyapimac.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "HsWrKq",
+    "id": 391,
+    "name": "2速度资源",
+    "api": "http://www.ggmmzy.com:9999/inc/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "bL6CmX",
+    "id": 392,
+    "name": "77资源2",
+    "api": "https://www.77zyw.live/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "Tp1QxY",
+    "id": 393,
+    "name": "狼少年",
+    "api": "http://cjmygzy.com/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "2gDrNw",
+    "id": 394,
+    "name": "鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "lFT6uP",
+    "id": 395,
+    "name": "苍天资源",
+    "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "G3aUOU",
+    "id": 396,
+    "name": "番号资源",
+    "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "fFR8oN\"",
+    "id": 397,
+    "name": "炮台资源",
+    "api": "http://ptcj.ptzycj.com/api.php/hyang/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "SlSwZj",
+    "id": 398,
+    "name": "快活资源",
+    "api": "https://www.khzyapi.com/api.php/Seacms/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "OQijfb",
+    "id": 399,
+    "name": "小黄瓜资源",
+    "api": "http://cj.xhgcjym.com/inc/ldg_sea.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "zJUzSw",
+    "id": 400,
+    "name": "佳丽资源",
+    "api": "http://jialixx.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "PrujbZ",
+    "id": 401,
+    "name": "利来资源",
+    "api": "http://llzxcj.com/inc/ck.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "cDnEFy",
+    "id": 402,
+    "name": "久草资源",
+    "api": "http://jcspcj8.com/api",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "O9DN9W",
+    "id": 403,
+    "name": "字幕网",
+    "api": "http://zmcj88.com/api",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "CrtXs6",
+    "id": 404,
+    "name": "富二代资源",
+    "api": "富二代资源",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "UxNUz1",
+    "id": 405,
+    "name": "撸死你资源",
+    "api": "http://lsnzxcj.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "dTt2cr",
+    "id": 406,
+    "name": "玖玖资源",
+    "api": "http://99zywcj.com/inc/ck.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "A8YCFU",
+    "id": 407,
+    "name": "色色资源",
+    "api": "http://sscj8.com/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "lJFAdT",
+    "id": 408,
+    "name": "av888资源",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "1yPLYl",
+    "id": 409,
+    "name": "JAV名优",
+    "api": "http://mygzycj.com/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "YZiKJF",
+    "id": 410,
+    "name": "环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "mynK5K",
+    "id": 411,
+    "name": "35资源",
+    "api": "http://cj.35zycj.com/inc/zyapimac.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "WFJVgO",
+    "id": 412,
+    "name": "800资源",
+    "api": "http://cj.809zy.com/inc/zyapimac.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "COEW7h",
+    "id": 413,
+    "name": "IXX资源",
+    "api": "http://api.iixxzyapi.com/inc/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "fCp7EQ",
+    "id": 414,
+    "name": "博天堂",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "zCKCn7",
+    "id": 415,
+    "name": "乐播资源2",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "zrNCSt",
+    "id": 416,
+    "name": "辣椒资源",
+    "api": "http://api.11bat.com/mac10.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "fwJ4Le",
+    "id": 417,
+    "name": "1024资源",
+    "api": "https://www.1024nf.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "key": "uT0IAr",
+    "id": 418,
+    "name": "365影视",
+    "api": "http://video.365tx.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "#聚合",
+    "isActive": false,
     "reverseOrder": false
   }
 ]
